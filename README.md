@@ -28,11 +28,12 @@ intervention program
 ### Second phase of webapp rollout
   
   * [ ] `Diagnostic` (risks of incorrect diagnostics) .
-      - Prevents possibilty of premature discharge and eventually of re-admission/hospitalisation solving our first problem statement.
-      - Provides various treatment packages considering competitors offers too and taking long term care of our patient for chronic disease which will solve our                seocnd problem statement. 
+      - Provides various treatment packages considering competitors offers too and taking long term care of our patient for chronic disease which will solve our                second problem statement. 
+      - Prevents possibilty of early discharge and eventually of re-admission/hospitalisation solving our first problem statement.
+     
        
   * [ ] `Rehabilitation` (risks of rehabilitation defects) & provide proper care plan .
-     - Provides care plans for Rehabilation which will solve second problem statement.
+     - Devising appropriate patient-care plans Provides care plans for Rehabilation which will solve second problem statement.
  
   * [ ] `Customer Feedback` (to keep check on services provided).
 
