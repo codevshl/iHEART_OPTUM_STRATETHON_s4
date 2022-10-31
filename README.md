@@ -14,7 +14,7 @@ FOR FULL DEMO WITH MY ANOTHER SIMILAR PROJECT
 
   * [x] `Hospitalization` (risks of unwanted incidents) . 
     - Cross verifies the possible heart disease in the first step.
-    - Can be monetised for making predictions if the user isn't using our organisation's services.
+    - Can be monetised for making predictions if the user isn't using our organisation's services (in-app purchases)
     - Provide member users with the free prediction of possible heart disease and a premium feature for the classification of heart disease using our model.
 
 ### Second phase of webapp rollout
