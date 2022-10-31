@@ -39,7 +39,7 @@ intervention program
 
 ### Third phase of webapp rollout
 
-  * [ ] `Re-hospitilazed patients` reason finding with the tracked data using IOT.
+  * [ ] `Re-hospitilazed patients` reason finding with the tracked data using IOT and patient history.
 
   * [ ] `Medical` (risks of surgical treatment, risks of pharmacotherapy, risks of undesirable medication reactions) .
 
