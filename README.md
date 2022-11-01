@@ -47,20 +47,20 @@ intervention program
 
  #### CODE FLOW FOR PREDICTION MODEL
 ``` >>>>
-* Add data using CSV file.
-* Data preprocessing.
-* Data Cleaning and Normalising.
-* Data Visualisations using different Data Plot types.
-* Split Data in two parts. 
+1. Add data using CSV file.
+2. Data preprocessing.
+3. Data Cleaning and Normalising.
+4. Data Visualisations using different Data Plot types.
+5. Split Data in two parts. 
   - Training Data.
   - Testing Data.
-* Train model.
-* Evaluate the model using following Algorithms:
+6. Train model.
+7. Evaluate the model using following Algorithms:
   - Random Forest.
   - KNN.
   - SVC.
   - Logistic Regression.
     > Found Random Forest most accurate with Accuracy = .99, Recall = .98, F1 Score = .99, Precision = 1.00. 
-* Read CSV file or Manual Data from user.
-* Predict using our Model.  ```
+8. Read CSV file or Manual Data from user.
+9. Predict using our Model.  ```
   
