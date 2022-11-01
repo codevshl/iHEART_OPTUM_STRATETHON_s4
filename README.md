@@ -33,10 +33,9 @@ intervention program
      
        
   * [ ] `Rehabilitation` (risks of rehabilitation defects) & provide proper care plan .
-     - Devising appropriate patient-care plans for Rehabilation which will solve second problem statement.
+     - Devising appropriate patient-care plans Provides care plans for Rehabilation which will solve second problem statement.
  
-  * [ ] `Customer Feedback`.
-     - Accepting feedback from customers to improvise patient-care plans .
+  * [ ] `Customer Feedback` (to keep check on services provided).
 
 ### Third phase of webapp rollout
 
@@ -46,8 +45,22 @@ intervention program
 
  
 
-
-
-
-
-
+ #### CODE FLOW FOR PREDICTION MODEL
+``` >>>>
+* Add data using CSV file.
+* Data preprocessing.
+* Data Cleaning and Normalising.
+* Data Visualisations using different Data Plot types.
+* Split Data in two parts. 
+  - Training Data.
+  - Testing Data.
+* Train model.
+* Evaluate the model using following Algorithms:
+  - Random Forest.
+  - KNN.
+  - SVC.
+  - Logistic Regression.
+    > Found Random Forest most accurate with Accuracy = .99, Recall = .98, F1 Score = .99, Precision = 1.00. 
+* Read CSV file or Manual Data from user.
+* Predict using our Model.  ```
+  
