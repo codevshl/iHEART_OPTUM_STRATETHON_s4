@@ -33,9 +33,10 @@ intervention program
      
        
   * [ ] `Rehabilitation` (risks of rehabilitation defects) & provide proper care plan .
-     - Devising appropriate patient-care plans Provides care plans for Rehabilation which will solve second problem statement.
+     - Devising appropriate patient-care plans for Rehabilation which will solve second problem statement.
  
-  * [ ] `Customer Feedback` (to keep check on services provided).
+  * [ ] `Customer Feedback`.
+     - Accepting feedback from customers to improvise patient-care plans .
 
 ### Third phase of webapp rollout
 
