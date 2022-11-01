@@ -19,10 +19,12 @@ intervention program
   
   * [x] `Lifestyle based risk assessment` .
      - This prevents possibilities of hospitalisation with early intervention with user friendly interface anytime anywhere solving our first problem statement.
+     - The user needs to answer a detailed questionnaire about diet, lifestyle, medical history.
+     - No dependence on the results of the blood test or any clinical data.
 
   * [x] `Hospitalization` (**risks of unwanted incidents**) *[this too is a type of early interventions program]* . 
      -  Cross verifies the possible heart disease in first step.
-       - Can be monitised for making prediction if user isn't using our organisation's services.
+       - Can be monetised for making prediction if user isn't using our organisation's services.
        - Provide member user free prediction of possible heart disease and premium feature of classification of heart disease using our model.
 
 ### Second phase of webapp rollout
